@@ -1,125 +1,125 @@
 # CodeFont - VS Code Font Management Extension
 
-**CodeFont** 是一个专为VS Code设计的字体管理扩展，旨在简化程序员在编辑器中切换字体的工作流程。无需手动编辑配置文件，即可轻松、快速地切换和应用字体。
+**CodeFont** is a font management extension designed for VS Code, aiming to simplify the workflow for programmers to switch fonts in the editor. You can easily and quickly switch and apply fonts without manually editing configuration files.
 
-## ✨ 核心功能
+## ✨ Core Features
 
-### 🔍 智能字体发现
-- 自动检测系统上安装的等宽编程字体
-- 支持Windows、macOS和Linux多平台
-- 只显示适合编程的等宽英文字体
-- 智能过滤非等宽字体，确保代码对齐效果
-- 优先显示常用编程字体（Fira Code、JetBrains Mono、Source Code Pro等）
-- **按 A-Z 字母顺序排列**，便于快速查找所需字体
-- 后台缓存字体信息，提升性能
+### 🔍 Intelligent Font Discovery
+- Automatically detects monospaced programming fonts installed on your system.
+- Supports Windows, macOS, and Linux.
+- Displays only monospaced English fonts suitable for programming.
+- Intelligently filters out non-monospaced fonts to ensure proper code alignment.
+- Prioritizes popular programming fonts (e.g., Fira Code, JetBrains Mono, Source Code Pro).
+- **Sorts fonts alphabetically (A-Z)** for quick and easy lookup.
+- Caches font information in the background to enhance performance.
 
-### ⚡ 快速字体切换
-- **命令面板集成**：通过 `CodeFont: Select Font` 快速选择字体
-- **状态栏显示**：实时显示当前字体信息，点击即可切换
-- **收藏夹功能**：收藏常用字体，**按字母顺序排列**便于访问
-- **预设字体大小**：预定义多种字体大小供快速切换
+### ⚡ Quick Font Switching
+- **Command Palette Integration**: Quickly select fonts using `CodeFont: Select Font`.
+- **Status Bar Display**: Shows the current font in the status bar; click to switch.
+- **Favorites**: Bookmark your favorite fonts, **sorted alphabetically** for easy access.
+- **Preset Font Sizes**: Predefined font sizes for quick switching.
 
-### 👀 实时预览
-- **即时预览**：在选择字体时实时预览效果
-- **悬停预览**：鼠标悬停在字体选项上即可预览
-- **应用确认**：预览满意后一键应用，或轻松取消
+### 👀 Real-time Preview
+- **Instant Preview**: Get a live preview of fonts as you select them.
+- **Hover Preview**: Simply hover over a font option to see how it looks.
+- **Apply Confirmation**: Apply the font with one click when you're satisfied, or easily cancel.
 
-### 💾 持久化设置
-- 自动保存字体配置
-- 跨VS Code会话保持设置
-- 支持全局、工作区和文件夹级别的配置
+### 💾 Persistent Settings
+- Automatically saves your font configuration.
+- Settings are preserved across VS Code sessions.
+- Supports global, workspace, and folder-level configurations.
 
-### 🎨 字体变体支持
-- 支持字体粗细、样式调整
-- 字间距和行高配置
-- 字体大小预设管理
+### 🎨 Font Variant Support
+- Adjust font weight and style.
+- Configure letter spacing and line height.
+- Manage preset font sizes.
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-### 使用方法
+### How to Use
 
-#### 切换字体
-1. **通过活动栏面板**（推荐）：
-   - 点击左侧活动栏的 CodeFont 图标
-   - 在 Font Explorer 中浏览字体分区
-   - **点击字体名称即可应用**，当前字体会标记为选中状态
-   - 使用星形图标管理收藏夹字体
-   - **优化体验**：应用字体后不会从列表中移除，避免界面跳动
-   - **极简设计**：移除所有冗余功能，打造零操作成本的字体切换体验
+#### Switching Fonts
+1. **Via the Activity Bar Panel (Recommended)**:
+   - Click the CodeFont icon in the left Activity Bar.
+   - Browse font sections in the Font Explorer.
+   - **Click a font name to apply it**. The current font will be marked as selected.
+   - Use the star icon to manage your favorite fonts.
+   - **Optimized Experience**: Applying a font does not remove it from the list, preventing UI jumps.
+   - **Minimalist Design**: All redundant features have been removed for a zero-effort font switching experience.
 
-2. **通过命令面板**：
-   - 按 `Ctrl+Shift+P` (Windows/Linux) 或 `Cmd+Shift+P` (macOS)
-   - 输入 "CodeFont: Select Font"
-   - 从列表中选择字体
+2. **Via the Command Palette**:
+   - Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS).
+   - Type "CodeFont: Select Font".
+   - Select a font from the list.
 
-3. **通过状态栏**：
-   - 点击右下角状态栏中的字体信息
-   - 直接从弹出菜单选择新字体
+3. **Via the Status Bar**:
+   - Click the font information in the bottom-right status bar.
+   - Choose a new font from the pop-up menu.
 
-#### 字体大小调整
-- 使用 `CodeFont: Toggle Font Size` 命令
-- 从预设尺寸中快速选择
+#### Adjusting Font Size
+- Use the `CodeFont: Toggle Font Size` command.
+- Quickly select from a list of preset sizes.
 
-#### 字体预览
-- 使用 `CodeFont: Preview Font` 命令
-- 在不永久更改的情况下预览字体效果
+#### Font Preview
+- Use the `CodeFont: Preview Font` command.
+- Preview font effects without making permanent changes.
 
-## ⚙️ 配置选项
+## ⚙️ Configuration Options
 
-在VS Code设置中搜索 "CodeFont" 查看所有配置选项：
+Search for "CodeFont" in your VS Code settings to view all available options:
 
 ```json
 {
-  "codefont.autoDetectFonts": true,        // 启动时自动检测字体
-  "codefont.showStatusBar": true,          // 在状态栏显示当前字体
-  "codefont.previewEnabled": true,         // 启用实时预览功能
-  "codefont.favoritefonts": [],            // 收藏的字体列表
-  "codefont.defaultFont": "Consolas",      // 默认字体
-  "codefont.fontSizePresets": [12, 13, 14, 15, 16, 17, 18, 19, 20],  // 预设字体大小
-  "codefont.strictFontMode": false         // 严格字体模式（仅使用选中字体，无后备字体）
+  "codefont.autoDetectFonts": true,        // Automatically detect fonts on startup
+  "codefont.showStatusBar": true,          // Show the current font in the status bar
+  "codefont.previewEnabled": true,         // Enable the real-time preview feature
+  "codefont.favoriteFonts": [],            // A list of your favorite fonts
+  "codefont.defaultFont": "Consolas",      // The default font
+  "codefont.fontSizePresets": [12, 13, 14, 15, 16, 17, 18, 19, 20],  // Preset font sizes
+  "codefont.useFontFallback": true         // Enable fallback fonts for better compatibility
 }
 ```
 
-### ⚠️ 严格字体模式说明
+### ⚠️ Font Fallback Mode Explained
 
-- **默认模式（推荐）**：`"codefont.strictFontMode": false`
-  - 字体配置：`"JetBrains Mono", Consolas, Monaco, "Courier New", monospace`
-  - 优点：即使主字体不可用，也会使用等宽后备字体，保证代码对齐
-  - 适用：团队开发、跨平台项目、字体环境不确定的情况
+- **Fallback Mode (Recommended)**: `"codefont.useFontFallback": true`
+  - Font Configuration: `"JetBrains Mono", Consolas, Monaco, "Courier New", monospace`
+  - **Advantage**: If the primary font is unavailable, the editor will use monospaced fallbacks to ensure proper code alignment.
+  - **Ideal for**: Team development, cross-platform projects, or any environment where font availability is uncertain.
 
-- **严格模式**：`"codefont.strictFontMode": true`  
-  - 字体配置：`"JetBrains Mono"`（仅主字体）
-  - 优点：完全一致的字体体验，配置简洁
-  - 风险：主字体不可用时可能回退到非等宽字体，破坏代码对齐
-  - 适用：个人使用且确保字体始终可用的情况
+- **Pure Font Mode**: `"codefont.useFontFallback": false`  
+  - Font Configuration: `"JetBrains Mono"` (primary font only)
+  - **Advantage**: Ensures a completely consistent font experience with a simpler configuration.
+  - **Risk**: If the primary font is unavailable, the editor may fall back to a non-monospaced font, which can break code alignment.
+  - **Ideal for**: Personal use when you are certain the specified font is always available.
 
-## 📋 命令列表
+## 📋 Command List
 
-| 命令 | 描述 |
-|------|------|
-| `CodeFont: Select Font` | 打开字体选择器 |
-| `CodeFont: Toggle Font Size` | 切换字体大小 |
-| `CodeFont: Preview Font` | 预览字体效果 |
-| `CodeFont: Refresh Fonts` | 刷新可用字体列表 |
-| `CodeFont: Reset to Default` | 重置为默认字体设置 |
+| Command | Description |
+|---|---|
+| `CodeFont: Select Font` | Opens the font selector |
+| `CodeFont: Toggle Font Size` | Switches the font size |
+| `CodeFont: Preview Font` | Previews font effects |
+| `CodeFont: Refresh Fonts` | Refreshes the list of available fonts |
+| `CodeFont: Reset to Default` | Resets to the default font settings |
 
-## � 更多信息
+## 📖 More Information
 
-- 📖 [详细使用指南](./USAGE_GUIDE.md) - 完整的功能说明和使用技巧
-- 🎛️ [可视化面板指南](./VISUAL_PANEL_GUIDE.md) - Font Explorer 面板详细使用方法
-- 🔧 [技术设计文档](./TECHNICAL_DESIGN.md) - 架构设计、开发环境设置和贡献指南
-- 🚀 [构建发布指南](./BUILD_AND_PUBLISH_GUIDE.md) - 构建、测试和发布流程
+- 📖 [Usage Guide](./USAGE_GUIDE.md) - Complete feature descriptions and usage tips.
+- 🎛️ [Visual Panel Guide](./VISUAL_PANEL_GUIDE.md) - Detailed instructions for the Font Explorer panel.
+- 🔧 [Technical Design](./TECHNICAL_DESIGN.md) - Architecture, development setup, and contribution guide.
+- 🚀 [Build and Publish Guide](./BUILD_AND_PUBLISH_GUIDE.md) - The process for building, testing, and publishing.
 
-## 📄 许可证
+## 📄 License
 
 MIT License
 
-## 🔗 链接
+## 🔗 Links
 
-- [GitHub 仓库](https://github.com/maxlee/codefont-vscode)
+- [CodeFont Website](https://codefont.dev)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=codefont.codefont)
-- [问题反馈](https://github.com/maxlee/codefont-vscode/issues)
+- [Report an Issue](https://github.com/maxlee/code-font-vscode/issues)
 
 ---
 
-**享受更好的编程字体体验！** 🎉
+**Enjoy a better programming font experience!** 🎉
