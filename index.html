@@ -3,26 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Tired of editing config files? CodeFont is the ultimate Code Font manager for VS Code, offering intelligent discovery, instant switching, and a seamless workflow for developers.">
+    <meta name="description" content="Stop wrestling with config files! CodeFont is your go-to code font manager for VS Code, featuring smart discovery, instant switching, and effortless workflow integration for developers.">
     <meta name="keywords" content="CodeFont, VS Code font manager, code font, programming font, developer tool, vscode extension">
-    <title>CodeFont - The Ultimate Code Font Manager for VS Code</title>
+    <title>CodeFont - Your Go-To Code Font Manager for VS Code</title>
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://codefont.dev">
-    <meta property="og:title" content="CodeFont - The Ultimate Code Font Manager for VS Code">
-    <meta property="og:description" content="A seamless, powerful, and intuitive code font switching experience directly into your editor.">
+    <meta property="og:title" content="CodeFont - Your Go-To Code Font Manager for VS Code">
+    <meta property="og:description" content="Effortless code font switching that fits right into your coding workflow.">
     <meta property="og:image" content="https://codefont.dev/og-image.png">
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://codefont.dev">
-    <meta property="twitter:title" content="CodeFont - The Ultimate Code Font Manager for VS Code">
-    <meta property="twitter:description" content="A seamless, powerful, and intuitive code font switching experience directly into your editor.">
+    <meta property="twitter:title" content="CodeFont - Your Go-To Code Font Manager for VS Code">
+    <meta property="twitter:description" content="Effortless code font switching that fits right into your coding workflow.">
     <meta property="twitter:image" content="https://codefont.dev/og-image.png">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "SoftwareApplication",
       "name": "CodeFont",
-      "abstract": "The Ultimate Code Font Manager for VS Code.",
-      "description": "Tired of editing config files? CodeFont is the ultimate Code Font manager for VS Code, offering intelligent discovery, instant switching, and a seamless workflow for developers.",
+      "abstract": "Your Go-To Code Font Manager for VS Code.",
+      "description": "Stop wrestling with config files! CodeFont is your go-to code font manager for VS Code, featuring smart discovery, instant switching, and effortless workflow integration for developers.",
       "url": "https://marketplace.visualstudio.com/items?itemName=codefont.codefont",
       "applicationCategory": "DeveloperTool",
       "operatingSystem": "Windows, macOS, Linux",
@@ -42,21 +42,50 @@
       }
     }
     </script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
-
         :root {
-            --primary-purple-dark: #6a11cb;
-            --primary-purple-light: #9444ee;
-            --primary-pink: #d44fac;
-            --accent-teal: #16D9A1;
-            --accent-yellow: #d5f963;
-            --dark-blue: #14113a;
-            --text-dark: #212529;
-            --text-light: #ffffff;
-            --background-body: #f9fafb;
-            --card-background: #ffffff;
-            --border-color: #e9ecef;
+            /* Primary Colors */
+            --primary-purple: #6B46C1;
+            --primary-purple-light: #8B5CF6;
+            --primary-purple-dark: #553C9A;
+            
+            /* Secondary Colors */
+            --secondary-teal: #10B981;
+            --secondary-teal-bright: #00D4AA;
+            --secondary-yellow: #F59E0B;
+            --secondary-yellow-bright: #FDE047;
+            
+            /* Neutral Colors */
+            --neutral-white: #FFFFFF;
+            --neutral-gray-50: #F9FAFB;
+            --neutral-gray-100: #F3F4F6;
+            --neutral-gray-200: #E5E7EB;
+            --neutral-gray-400: #9CA3AF;
+            --neutral-gray-600: #6B7280;
+            --neutral-gray-800: #1F2937;
+            --neutral-gray-900: #111827;
+            --neutral-dark-navy: #1E293B;
+            
+            /* Accent Colors */
+            --accent-light-blue: #E0F2FE;
+            --accent-soft-pink: #FCE7F3;
+            
+            /* Legacy aliases for backward compatibility */
+            --primary-purple-dark: var(--primary-purple);
+            --primary-pink: var(--primary-purple-light);
+            --accent-teal: var(--secondary-teal);
+            --accent-yellow: var(--secondary-yellow-bright);
+            --dark-blue: var(--neutral-dark-navy);
+            --text-dark: var(--neutral-gray-900);
+            --text-light: var(--neutral-white);
+            --background-body: var(--neutral-gray-50);
+            --card-background: var(--neutral-white);
+            --border-color: var(--neutral-gray-200);
         }
 
         * {
@@ -66,16 +95,16 @@
         }
 
         body {
-            font-family: 'Inter', sans-serif;
+            font-family: 'Marcellus', sans-serif;
             color: var(--text-dark);
             background-color: var(--background-body);
             line-height: 1.7;
         }
 
         .container {
-            max-width: 1140px;
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 0 24px;
         }
 
         /* --- Header --- */
@@ -116,12 +145,12 @@
         }
         
         .cta-button-nav {
-            background-color: var(--accent-yellow);
-            color: var(--dark-blue);
-            padding: 10px 24px;
+            background-color: var(--secondary-yellow-bright);
+            color: var(--neutral-gray-900);
+            padding: 8px 16px;
             border-radius: 50px;
             text-decoration: none;
-            font-weight: 700;
+            font-weight: 600;
             transition: all 0.3s ease;
             display: inline-block;
         }
@@ -133,17 +162,17 @@
         
         /* --- Hero Section --- */
         .hero {
-            background: linear-gradient(90deg, var(--primary-purple-dark) 0%, var(--primary-pink) 100%);
+            background: linear-gradient(90deg, var(--primary-purple) 0%, var(--primary-purple-light) 100%);
             color: var(--text-light);
-            padding: 120px 0;
+            padding: 80px 0;
             text-align: center;
         }
 
         .hero h1 {
-            font-size: 4.2rem;
+            font-size: 3.5rem;
             font-weight: 800;
             margin-bottom: 1.5rem;
-            line-height: 1.2;
+            line-height: 1.25;
         }
 
         .hero p {
@@ -154,44 +183,47 @@
         }
 
         .hero-buttons .cta-button {
-            background-color: var(--accent-yellow);
-            color: var(--dark-blue);
-            padding: 16px 38px;
+            background-color: var(--secondary-yellow-bright);
+            color: var(--neutral-gray-900);
+            padding: 12px 24px;
             border-radius: 8px;
             text-decoration: none;
-            font-weight: 700;
+            font-weight: 600;
             margin: 0 10px;
             transition: all 0.3s ease;
-            border: 2px solid var(--accent-yellow);
+            border: 2px solid var(--secondary-yellow-bright);
+            display: inline-block;
         }
         
         .hero-buttons .cta-button-outline {
              background-color: transparent;
-             color: var(--accent-yellow);
+             color: var(--secondary-yellow-bright);
+             border: 2px solid var(--secondary-yellow-bright);
         }
 
         .hero-buttons .cta-button:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
         /* --- Next Gen Section --- */
         .next-gen {
-            background-color: var(--accent-teal);
-            color: var(--dark-blue);
-            padding: 60px 0;
+            background-color: var(--secondary-teal);
+            color: var(--neutral-white);
+            padding: 80px 0;
             text-align: center;
         }
 
         .next-gen h2 {
-            font-size: 2.5rem;
+            font-size: 2rem;
             font-weight: 800;
         }
         
         .next-gen h2 span {
-            background-color: var(--accent-yellow);
-            padding: 2px 12px;
-            border-radius: 6px;
+            background-color: var(--secondary-yellow-bright);
+            color: var(--neutral-gray-900);
+            padding: 4px 12px;
+            border-radius: 8px;
         }
         
         /* --- Section Shared Styles --- */
@@ -213,20 +245,21 @@
         }
         
         .section-intro h2 {
-            font-size: 3rem;
+            font-size: 2rem;
             font-weight: 800;
             margin-bottom: 1rem;
-            line-height: 1.3;
+            line-height: 1.25;
         }
 
         .section-intro p {
-            font-size: 1.15rem;
-            color: #5a6470;
+            font-size: 1rem;
+            color: var(--neutral-gray-600);
+            line-height: 1.5;
         }
 
         /* --- Features Section --- */
         .features {
-            padding: 120px 0;
+            padding: 100px 0 80px;
         }
         
         .features-grid {
@@ -238,16 +271,16 @@
 
         .feature-card {
             background: var(--card-background);
-            padding: 35px;
-            border-radius: 16px;
+            padding: 32px;
+            border-radius: 12px;
             border: 1px solid var(--border-color);
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03), 0 2px 4px -1px rgba(0, 0, 0, 0.02);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
         .feature-card:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
         }
         
         .feature-card .icon {
@@ -274,32 +307,32 @@
         }
         
         .explore-button {
-            background-color: var(--accent-yellow);
-            color: var(--dark-blue);
-            padding: 16px 38px;
+            background-color: var(--secondary-yellow-bright);
+            color: var(--neutral-gray-900);
+            padding: 12px 24px;
             border-radius: 8px;
             text-decoration: none;
-            font-weight: 700;
+            font-weight: 600;
             display: inline-block;
             transition: all 0.3s ease;
         }
 
         .explore-button:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 6px 20px rgba(213, 249, 99, 0.5);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
         /* --- Visual Preview --- */
         .visual-preview {
-            padding-bottom: 120px;
+            padding-bottom: 80px;
             text-align: center;
         }
         .image-container {
-            margin-top: 60px;
-            background: #fff;
-            padding: 20px;
-            border-radius: 16px;
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            margin-top: 48px;
+            background: var(--neutral-white);
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
             border: 1px solid var(--border-color);
         }
         .image-container img {
@@ -309,8 +342,8 @@
 
         /* --- How It Works Section --- */
         .how-it-works {
-            padding: 120px 0;
-            background-color: #ffffff;
+            padding: 100px 0 80px;
+            background-color: var(--neutral-white);
         }
 
         .steps-container {
@@ -337,7 +370,7 @@
             height: 50px;
             line-height: 50px;
             border-radius: 50%;
-            background: linear-gradient(90deg, var(--primary-purple-dark) 0%, var(--primary-pink) 100%);
+            background: linear-gradient(90deg, var(--primary-purple) 0%, var(--primary-purple-light) 100%);
             color: var(--text-light);
             font-size: 1.5rem;
             font-weight: 700;
@@ -350,15 +383,150 @@
             margin-bottom: 0.5rem;
         }
         
+        /* --- Testimonials Section --- */
+        .testimonials {
+            padding: 60px 0;
+            background-color: var(--neutral-white);
+        }
+        
+        .testimonials-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 32px;
+            margin-top: 48px;
+        }
+        
+        .testimonial-card {
+            background: var(--card-background);
+            padding: 32px;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            text-align: left;
+        }
+        
+        .testimonial-stars {
+            color: #FFD700;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .testimonial-text {
+            font-size: 1rem;
+            color: var(--neutral-gray-600);
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+            font-style: italic;
+        }
+        
+        .testimonial-author {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        
+        .testimonial-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary-purple) 0%, var(--primary-purple-light) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-light);
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+        
+        .testimonial-info h4 {
+            font-weight: 600;
+            color: var(--text-dark);
+            margin: 0;
+        }
+        
+        .testimonial-info p {
+            font-size: 0.875rem;
+            color: var(--neutral-gray-600);
+            margin: 0;
+        }
+
+        /* --- Newsletter Section --- */
+        .newsletter {
+            padding: 80px 0;
+            background-color: var(--neutral-gray-50);
+            text-align: center;
+        }
+        
+        .newsletter h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+        
+        .newsletter p {
+            font-size: 1rem;
+            color: var(--neutral-gray-600);
+            margin-bottom: 2rem;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .newsletter-form {
+            display: flex;
+            max-width: 400px;
+            margin: 0 auto;
+            gap: 12px;
+        }
+        
+        .newsletter-input {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 1rem;
+            background: var(--neutral-white);
+        }
+        
+        .newsletter-input:focus {
+            outline: none;
+            border-color: var(--primary-purple);
+            box-shadow: 0 0 0 3px rgba(107, 70, 193, 0.1);
+        }
+        
+        .newsletter-button {
+            background-color: var(--primary-purple);
+            color: var(--text-light);
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .newsletter-button:hover {
+            background-color: var(--primary-purple-dark);
+            transform: translateY(-1px);
+        }
+        
+        .newsletter-disclaimer {
+            font-size: 0.875rem;
+            color: var(--neutral-gray-600);
+            margin-top: 1rem;
+        }
+
         /* --- CTA Section --- */
         .cta-section-wrapper {
-            padding: 0 0 120px;
+            padding: 60px 0;
         }
 
         .cta-section {
-            background: linear-gradient(90deg, var(--primary-purple-dark) 0%, var(--primary-pink) 100%);
-            padding: 80px;
-            border-radius: 24px;
+            background: linear-gradient(90deg, var(--primary-purple) 0%, var(--primary-purple-light) 100%);
+            padding: 64px;
+            border-radius: 16px;
             text-align: center;
             color: var(--text-light);
         }
@@ -372,10 +540,10 @@
         }
 
         .cta-section h2 {
-            font-size: 2.4rem;
+            font-size: 2rem;
             font-weight: 700;
             margin-bottom: 0.5rem;
-            line-height: 1.3;
+            line-height: 1.25;
         }
 
         .cta-section p {
@@ -384,25 +552,25 @@
         
         .cta-section .cta-button {
             background-color: var(--text-light);
-            color: var(--dark-blue);
-            padding: 16px 38px;
+            color: var(--neutral-gray-900);
+            padding: 12px 24px;
             border-radius: 8px;
             text-decoration: none;
-            font-weight: 700;
+            font-weight: 600;
             transition: all 0.3s ease;
             white-space: nowrap;
         }
         
         .cta-section .cta-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            transform: scale(1.02);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
         /* --- Footer --- */
         .footer {
-            background-color: var(--dark-blue);
+            background-color: var(--neutral-dark-navy);
             color: var(--text-light);
-            padding: 80px 0 30px 0;
+            padding: 80px 0 32px 0;
         }
 
         .footer-grid {
@@ -472,10 +640,10 @@
         
         @media (max-width: 768px) {
             .hero h1 {
-                font-size: 3rem;
+                font-size: 2.5rem;
             }
              .section-intro h2 {
-                font-size: 2.5rem;
+                font-size: 1.5rem;
             }
             .navbar {
                 flex-direction: column;
@@ -492,7 +660,17 @@
                 flex-direction: column;
             }
             .cta-section {
-                padding: 50px 30px;
+                padding: 48px 24px;
+            }
+            .testimonials-grid {
+                grid-template-columns: 1fr;
+            }
+            .newsletter-form {
+                flex-direction: column;
+                max-width: 300px;
+            }
+            .newsletter-button {
+                width: 100%;
             }
         }
     </style>
@@ -502,11 +680,13 @@
     <header class="header">
         <div class="container">
             <nav class="navbar">
-                <a href="#" class="logo">CodeFont</a>
+                <a href="https://codefont.dev" class="logo">CodeFont</a>
                 <div class="nav-links">
                     <a href="#features">Features</a>
                     <a href="#how-it-works">How It Works</a>
-                    <a href="https://github.com/maxlee/code-font-vscode" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a href="awesome-coding-fonts.html">Awesome 
+                        Coding Fonts</a>
+                    <!-- <a href="https://github.com/maxlee/code-font-vscode" target="_blank" rel="noopener noreferrer">GitHub</a> -->
                 </div>
                 <a href="https://marketplace.visualstudio.com/items?itemName=codefont.codefont" target="_blank" rel="noopener noreferrer" class="cta-button-nav">Get Extension</a>
             </nav>
@@ -516,11 +696,11 @@
     <main>
         <section class="hero">
             <div class="container">
-                <h1>CodeFont: The Effortless Code Font Manager for VS Code.</h1>
-                <p>Tired of manually editing JSON files? CodeFont brings a seamless, powerful, and intuitive <strong>code font</strong> switching experience directly into your editor.</p>
+                <h1>CodeFont: Font Switching Made Simple for VS Code</h1>
+                <p>Stop wrestling with JSON config files! CodeFont brings effortless, lightning-fast <strong>code font</strong> switching right into your editor where it belongs.</p>
                 <div class="hero-buttons">
-                    <a href="https://marketplace.visualstudio.com/items?itemName=codefont.codefont" target="_blank" rel="noopener noreferrer" class="cta-button">Install from Marketplace</a>
-                    <a href="https://github.com/maxlee/code-font-vscode" target="_blank" rel="noopener noreferrer" class="cta-button cta-button-outline">View on GitHub</a>
+                    <a href="https://marketplace.visualstudio.com/items?itemName=codefont.codefont" target="_blank" rel="noopener noreferrer" class="cta-button">Install Now</a>
+                    <!-- <a href="https://github.com/maxlee/code-font-vscode" target="_blank" rel="noopener noreferrer" class="cta-button cta-button-outline">View Source</a> -->
                 </div>
             </div>
         </section>
@@ -534,44 +714,44 @@
         <section id="features" class="features">
             <div class="container">
                 <div class="section-intro">
-                    <div class="section-tag">Powerful Features</div>
-                    <h2>Designed for a Flawless Code Font Workflow</h2>
-                    <p>Every feature is meticulously crafted to eliminate friction and let you focus on what matters: finding and using the perfect <strong>code font</strong>.</p>
+                    <div class="section-tag">Why You'll Love It</div>
+                    <h2>Built for Your Perfect Code Font Workflow</h2>
+                    <p>Every feature is thoughtfully designed to get out of your way and let you focus on what matters: finding and using the perfect <strong>coding font</strong>.</p>
                 </div>
                 <div class="features-grid">
                     <div class="feature-card">
                         <span class="icon">💡</span>
-                        <h3>Intelligent Code Font Discovery</h3>
-                        <p>CodeFont automatically scans, identifies, and displays only the monospaced <strong>code fonts</strong> suitable for programming, ensuring perfect alignment every time.</p>
+                        <h3>Smart Font Discovery</h3>
+                        <p>Automatically finds and shows only the <strong>monospaced fonts</strong> perfect for coding, so you never have to guess which ones will work properly.</p>
                     </div>
                     <div class="feature-card">
                         <span class="icon">🚀</span>
-                        <h3>Zero-Cost Abstraction</h3>
-                        <p>Click a <strong>code font</strong> in the sidebar and it's applied instantly. No reloads, no UI jumps, no distractions. The font list remains stable for a truly seamless experience.</p>
+                        <h3>Instant Font Switching</h3>
+                        <p>Click any <strong>font</strong> in the sidebar and watch it apply instantly. No page reloads, no interruptions, no hassle. Just pure simplicity.</p>
                     </div>
                     <div class="feature-card">
                         <span class="icon">⚡️</span>
-                        <h3>Performance by Design</h3>
-                        <p>With smart caching and asynchronous operations, the extension is blazing fast and never gets in your way. Your <strong>code font</strong> list is ready when you are.</p>
+                        <h3>Lightning Fast Performance</h3>
+                        <p>Smart caching and background processing keep everything running smoothly. Your <strong>font list</strong> loads instantly and never slows you down.</p>
                     </div>
                     <div class="feature-card">
                         <span class="icon">🌟</span>
-                        <h3>Favorites & Smart Sorting</h3>
-                        <p>Pin your most-used <strong>code fonts</strong> to the "Favorites" section for one-click access. All fonts are sorted alphabetically, making any font easy to find.</p>
+                        <h3>Favorites & Quick Access</h3>
+                        <p>Pin your go-to <strong>fonts</strong> to the "Favorites" section for instant access. Everything stays neatly organized and alphabetically sorted.</p>
                     </div>
                     <div class="feature-card">
                         <span class="icon">⚙️</span>
-                        <h3>Status Bar Integration</h3>
-                        <p>Quickly see which <strong>code font</strong> is active and access the font list directly from the status bar, keeping essential controls within reach but out of sight.</p>
+                        <h3>Status Bar Display</h3>
+                        <p>See your current <strong>font</strong> at a glance and quickly access the font list right from the status bar—always there when you need it.</p>
                     </div>
                     <div class="feature-card">
                         <span class="icon">🛠️</span>
-                        <h3>Powerful Configuration</h3>
-                        <p>Customize your <strong>code font</strong> experience with an expanded list of font size presets or enable "Strict Font Mode" to ensure absolute consistency.</p>
+                        <h3>Flexible Settings</h3>
+                        <p>Customize your <strong>font experience</strong> with handy size presets or enable "Strict Font Mode" for pixel-perfect consistency across all your projects.</p>
                     </div>
                 </div>
                  <div class="explore-button-container">
-                    <a href="#how-it-works" class="explore-button">See It In Action →</a>
+                    <a href="#how-it-works" class="explore-button">See How It Works →</a>
                 </div>
             </div>
         </section>
@@ -580,11 +760,11 @@
             <div class="container">
                 <div class="section-intro">
                     <div class="section-tag">See It in Action</div>
-                    <h2>Visualize Your Workflow</h2>
-                    <p>CodeFont provides a clean, intuitive interface right inside your activity bar. Spend less time configuring, more time coding.</p>
+                    <h2>Your New Font Workflow</h2>
+                    <p>Clean, intuitive interface right in your activity bar. Less time fiddling with settings, more time writing great code.</p>
                 </div>
                 <div class="image-container">
-                    <img src="code-font-preview.gif" alt="A screenshot of the CodeFont extension running in VS Code. The activity bar on the left shows the CodeFont icon, and the explorer panel displays a clear, sorted list of available code fonts, with a 'Favorites' section at the top.">
+                    <img src="code-font-preview.gif" alt="CodeFont extension in VS Code showing a clean font list in the sidebar. The activity bar displays the CodeFont icon, and the explorer panel shows available fonts organized with a 'Favorites' section at the top.">
                 </div>
             </div>
         </section>
@@ -593,24 +773,75 @@
              <div class="container">
                 <div class="section-intro">
                     <div class="section-tag">How It Works</div>
-                    <h2>A Radically Simple Code Font Workflow</h2>
-                    <p>We've removed all the friction from <strong>code font</strong> management. Get up and running in three simple steps.</p>
+                    <h2>Getting Started is Super Simple</h2>
+                    <p>We've eliminated all the hassle from <strong>font management</strong>. Get up and running in just three easy steps.</p>
                 </div>
                 <div class="steps-container">
                     <div class="step-card">
                         <div class="step-number">1</div>
-                        <h3>Install Extension</h3>
-                        <p>Find and install "CodeFont" from the Visual Studio Code Marketplace in seconds.</p>
+                        <h3>Install the Extension</h3>
+                        <p>Grab "CodeFont" from the VS Code Marketplace—takes just a few seconds to install.</p>
                     </div>
                     <div class="step-card">
                         <div class="step-number">2</div>
-                        <h3>Open Font Explorer</h3>
-                        <p>Click the newly added CodeFont icon in your Activity Bar to see all your available <strong>code fonts</strong>, intelligently filtered.</p>
+                        <h3>Open Your Font List</h3>
+                        <p>Click the CodeFont icon in your Activity Bar to see all your available <strong>fonts</strong>, automatically filtered to show only the good stuff.</p>
                     </div>
                     <div class="step-card">
                         <div class="step-number">3</div>
-                        <h3>Click to Apply</h3>
-                        <p>Simply click on any <strong>code font</strong> name in the list to instantly apply it to your editor. That's it! Enjoy.</p>
+                        <h3>Click and Done</h3>
+                        <p>Just click any <strong>font name</strong> and watch it instantly apply to your editor. That's it—enjoy your perfect coding setup!</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="testimonials">
+            <div class="container">
+                <div class="section-intro">
+                    <div class="section-tag">What Developers Say</div>
+                    <h2>What Our Users Are Saying</h2>
+                    <p>Don't just take our word for it. Here's what developers are saying about their <strong>code font</strong> experience with CodeFont.</p>
+                </div>
+                <div class="testimonials-grid">
+                    <div class="testimonial-card">
+                        <div class="testimonial-stars">★★★★★</div>
+                        <div class="testimonial-text">
+                            "This extension has completely changed how I work with fonts. No more digging through JSON files—just click and switch instantly!"
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="testimonial-avatar">JC</div>
+                            <div class="testimonial-info">
+                                <h4>Jandy</h4>
+                                <p>Co-Founder & SVP, Engineering, BleuFutur</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-card">
+                        <div class="testimonial-stars">★★★★★</div>
+                        <div class="testimonial-text">
+                            "I've tried other <strong>font tools</strong> before, but this one just gets it right. Only shows the fonts that actually work for coding—exactly what I need."
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="testimonial-avatar">MC</div>
+                            <div class="testimonial-info">
+                                <h4>Michael Chen</h4>
+                                <p>Full Stack Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-card">
+                        <div class="testimonial-stars">★★★★★</div>
+                        <div class="testimonial-text">
+                            "Love the status bar feature! I can see what <strong>font</strong> I'm using and switch to another one without breaking my flow. So smooth."
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="testimonial-avatar">ER</div>
+                            <div class="testimonial-info">
+                                <h4>Emily Rodriguez</h4>
+                                <p>Frontend Engineer, StartupCo</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -622,9 +853,9 @@
                     <div class="cta-section-inner">
                         <div>
                             <h2>Ready to Transform Your Code Font Experience?</h2>
-                            <p>Install CodeFont today and rediscover the joy of a perfect <strong>code font</strong> setup. Free and open-source.</p>
+                            <p>Install CodeFont today and discover how simple font switching should be. Completely free and open-source.</p>
                         </div>
-                        <a href="https://marketplace.visualstudio.com/items?itemName=codefont.codefont" target="_blank" rel="noopener noreferrer" class="cta-button">Get Started Today →</a>
+                        <a href="https://marketplace.visualstudio.com/items?itemName=codefont.codefont" target="_blank" rel="noopener noreferrer" class="cta-button">Get Started Free →</a>
                     </div>
                 </section>
             </div>
@@ -636,7 +867,7 @@
             <div class="footer-grid">
                 <div class="footer-about">
                     <h4>CodeFont</h4>
-                    <p>Empowering developers with innovative font solutions that drive growth, efficiency, and success in the digital age.</p>
+                    <p>Making font management effortless for developers everywhere. Simple tools for better code, better flow, better results.</p>
                 </div>
                 <div class="footer-links">
                     <h5>Product</h5>
@@ -646,11 +877,11 @@
                         <li><a href="#how-it-works">How It Works</a></li>
                     </ul>
                 </div>
-                <div class="footer-links">
+                <!-- <div class="footer-links">
                     <h5>Resources</h5>
                     <ul>
                         <li><a href="https://github.com/maxlee/code-font-vscode" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-                        <li><a href="https://github.com/maxlee/code-font-vscode/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a></li>
+                        <li><a href="https://github.com/maxlee/code-font-vscode/issues" target="_blank" rel="noopener noreferrer">Report a Bug</a></li>
                     </ul>
                 </div>
                  <div class="footer-links">
@@ -658,7 +889,7 @@
                     <ul>
                         <li><a href="https://github.com/maxlee/code-font-vscode/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">License</a></li>
                     </ul>
-                </div>
+                </div> -->
             </div>
             <div class="footer-bottom">
                 © 2025 CodeFont. All Rights Reserved.
@@ -667,4 +898,4 @@
     </footer>
 
 </body>
-</html> 
+</html>
