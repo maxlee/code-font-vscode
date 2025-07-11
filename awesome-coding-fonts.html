@@ -1531,6 +1531,15 @@
             padding: 0;
         }
     </style>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6DLDP5NKTF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6DLDP5NKTF');
+    </script>
 </head>
 <body class="antialiased transition-colors duration-300">
     <!-- Header -->
@@ -2914,6 +2923,7 @@ fc-cache -fv</div>
         function createFontCard(font) {
             const card = document.createElement('div');
             card.className = 'font-card slide-up';
+            card.id = font.name.replace(/\s+/g, '-').replace(/[^a-zA-Z0-9\-_]/g, '').toLowerCase(); // 用字体名称生成 id
 
             // Detect font availability
             const fontStatus = detectFontAvailability(font.name);
