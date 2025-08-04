@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>
+            https://codefont.dev/best-coding-fonts
+        </loc>
+        <lastmod>
+            2025-08-04T13:10:50.737Z
+        </lastmod>
+        <changefreq>
+            daily
+        </changefreq>
+        <priority>
+            1.0
+        </priority>
+    </url>
+    <url>
+        <loc>
             https://codefont.dev/best-coding-fonts.html
         </loc>
         <lastmod>
-            2025-07-11T05:08:56.306Z
+            2025-08-04T13:10:50.737Z
         </lastmod>
         <changefreq>
             daily
@@ -19,7 +33,7 @@
             https://codefont.dev
         </loc>
         <lastmod>
-            2025-07-11T05:08:56.306Z
+            2025-08-04T13:10:50.737Z
         </lastmod>
         <changefreq>
             daily
