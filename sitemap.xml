@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>
-            https://codefont.dev/best-coding-fonts-cn
+            https://codefont.dev/src/pages/best-coding-fonts-cn
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -16,10 +16,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/best-coding-fonts
+            https://codefont.dev/src/pages/best-coding-fonts
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -30,10 +30,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts
+            https://codefont.dev/src/pages/fonts
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -44,10 +44,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/
+            https://codefont.dev/src/pages
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -58,10 +58,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/0xproto
+            https://codefont.dev/src/pages/fonts/0xproto
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -72,10 +72,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/andale-mono
+            https://codefont.dev/src/pages/fonts/andale-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -86,10 +86,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/anonymous-pro
+            https://codefont.dev/src/pages/fonts/anonymous-pro
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -100,10 +100,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/atkinson-hyperlegible-mono
+            https://codefont.dev/src/pages/fonts/atkinson-hyperlegible-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -114,10 +114,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/azeret-mono
+            https://codefont.dev/src/pages/fonts/azeret-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -128,10 +128,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/b612-mono
+            https://codefont.dev/src/pages/fonts/b612-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -142,10 +142,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/berkeley-mono
+            https://codefont.dev/src/pages/fonts/berkeley-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -156,10 +156,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/cartograph-cf
+            https://codefont.dev/src/pages/fonts/cartograph-cf
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -170,10 +170,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/cascadia-code
+            https://codefont.dev/src/pages/fonts/cascadia-code
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -184,10 +184,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/cascadia-mono
+            https://codefont.dev/src/pages/fonts/cascadia-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -198,10 +198,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/chivo-mono
+            https://codefont.dev/src/pages/fonts/chivo-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -212,10 +212,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/classic-console
+            https://codefont.dev/src/pages/fonts/classic-console
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -226,10 +226,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/codelia
+            https://codefont.dev/src/pages/fonts/codelia
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -240,10 +240,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/comic-code
+            https://codefont.dev/src/pages/fonts/comic-code
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -254,10 +254,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/comic-mono
+            https://codefont.dev/src/pages/fonts/comic-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -268,10 +268,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/comic-shanns
+            https://codefont.dev/src/pages/fonts/comic-shanns
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -282,10 +282,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/commit-mono
+            https://codefont.dev/src/pages/fonts/commit-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -296,10 +296,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/consolas-ligaturized
+            https://codefont.dev/src/pages/fonts/consolas-ligaturized
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -310,10 +310,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/consolas
+            https://codefont.dev/src/pages/fonts/consolas
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -324,10 +324,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/conta
+            https://codefont.dev/src/pages/fonts/conta
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -338,10 +338,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/courier-new
+            https://codefont.dev/src/pages/fonts/courier-new
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -352,10 +352,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/courier-prime
+            https://codefont.dev/src/pages/fonts/courier-prime
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -366,10 +366,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/cousine
+            https://codefont.dev/src/pages/fonts/cousine
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -380,10 +380,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/dank-mono
+            https://codefont.dev/src/pages/fonts/dank-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -394,10 +394,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/datatype
+            https://codefont.dev/src/pages/fonts/datatype
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -408,10 +408,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/dejavu-sans-mono
+            https://codefont.dev/src/pages/fonts/dejavu-sans-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -422,10 +422,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/dina
+            https://codefont.dev/src/pages/fonts/dina
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -436,10 +436,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/dm-mono
+            https://codefont.dev/src/pages/fonts/dm-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -450,10 +450,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/droid-sans-mono
+            https://codefont.dev/src/pages/fonts/droid-sans-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -464,10 +464,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/fantasque-sans-mono
+            https://codefont.dev/src/pages/fonts/fantasque-sans-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -478,10 +478,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/fira-code
+            https://codefont.dev/src/pages/fonts/fira-code
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -492,10 +492,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/fira-mono
+            https://codefont.dev/src/pages/fonts/fira-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -506,10 +506,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/firaflott
+            https://codefont.dev/src/pages/fonts/firaflott
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -520,10 +520,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/geist-mono
+            https://codefont.dev/src/pages/fonts/geist-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -534,10 +534,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/gintronic
+            https://codefont.dev/src/pages/fonts/gintronic
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -548,10 +548,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/google-sans-code
+            https://codefont.dev/src/pages/fonts/google-sans-code
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -562,10 +562,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/hack
+            https://codefont.dev/src/pages/fonts/hack
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -576,10 +576,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/hasklig
+            https://codefont.dev/src/pages/fonts/hasklig
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -590,10 +590,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/ia-writer-mono
+            https://codefont.dev/src/pages/fonts/ia-writer-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -604,10 +604,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/ibm-plex-mono
+            https://codefont.dev/src/pages/fonts/ibm-plex-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -618,10 +618,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/inconsolata
+            https://codefont.dev/src/pages/fonts/inconsolata
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -632,10 +632,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/input-mono
+            https://codefont.dev/src/pages/fonts/input-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -646,10 +646,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/input
+            https://codefont.dev/src/pages/fonts/input
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -660,10 +660,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/intel-one-mono
+            https://codefont.dev/src/pages/fonts/intel-one-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -674,10 +674,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/iosevka-slab
+            https://codefont.dev/src/pages/fonts/iosevka-slab
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -688,10 +688,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/iosevka
+            https://codefont.dev/src/pages/fonts/iosevka
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -702,10 +702,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/jetbrains-mono
+            https://codefont.dev/src/pages/fonts/jetbrains-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -716,10 +716,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/julia-mono
+            https://codefont.dev/src/pages/fonts/julia-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -730,10 +730,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/kode-mono
+            https://codefont.dev/src/pages/fonts/kode-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -744,10 +744,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/latin-modern-mono
+            https://codefont.dev/src/pages/fonts/latin-modern-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -758,10 +758,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/liberation-mono
+            https://codefont.dev/src/pages/fonts/liberation-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -772,10 +772,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/lilex
+            https://codefont.dev/src/pages/fonts/lilex
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -786,10 +786,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/lotion
+            https://codefont.dev/src/pages/fonts/lotion
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -800,10 +800,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/lucida-console
+            https://codefont.dev/src/pages/fonts/lucida-console
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -814,10 +814,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/maple-mono
+            https://codefont.dev/src/pages/fonts/maple-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -828,10 +828,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/martian-mono
+            https://codefont.dev/src/pages/fonts/martian-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -842,10 +842,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/menlo
+            https://codefont.dev/src/pages/fonts/menlo
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -856,10 +856,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/meslo-lg
+            https://codefont.dev/src/pages/fonts/meslo-lg
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -870,10 +870,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/monaco
+            https://codefont.dev/src/pages/fonts/monaco
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -884,10 +884,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/monaspace
+            https://codefont.dev/src/pages/fonts/monaspace
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -898,10 +898,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/monoid
+            https://codefont.dev/src/pages/fonts/monoid
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -912,10 +912,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/monolisa
+            https://codefont.dev/src/pages/fonts/monolisa
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -926,10 +926,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/mononoki
+            https://codefont.dev/src/pages/fonts/mononoki
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -940,10 +940,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/myna
+            https://codefont.dev/src/pages/fonts/myna
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -954,10 +954,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/nanum-gothic-coding
+            https://codefont.dev/src/pages/fonts/nanum-gothic-coding
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -968,10 +968,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/native
+            https://codefont.dev/src/pages/fonts/native
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -982,10 +982,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/nordwand-mono
+            https://codefont.dev/src/pages/fonts/nordwand-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -996,10 +996,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/noto-mono
+            https://codefont.dev/src/pages/fonts/noto-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1010,10 +1010,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/nova-mono
+            https://codefont.dev/src/pages/fonts/nova-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1024,10 +1024,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/opendyslexic-mono
+            https://codefont.dev/src/pages/fonts/opendyslexic-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1038,10 +1038,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/operator-mono
+            https://codefont.dev/src/pages/fonts/operator-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1052,10 +1052,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/overpass-mono
+            https://codefont.dev/src/pages/fonts/overpass-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1066,10 +1066,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/oxygen-mono
+            https://codefont.dev/src/pages/fonts/oxygen-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1080,10 +1080,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/pragmata-pro
+            https://codefont.dev/src/pages/fonts/pragmata-pro
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1094,10 +1094,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/proggy-fonts
+            https://codefont.dev/src/pages/fonts/proggy-fonts
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1108,10 +1108,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/pt-mono
+            https://codefont.dev/src/pages/fonts/pt-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1122,10 +1122,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/recursive
+            https://codefont.dev/src/pages/fonts/recursive
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1136,10 +1136,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/red-hat-mono
+            https://codefont.dev/src/pages/fonts/red-hat-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1150,10 +1150,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/reddit-mono
+            https://codefont.dev/src/pages/fonts/reddit-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1164,10 +1164,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/roboto-mono
+            https://codefont.dev/src/pages/fonts/roboto-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1178,10 +1178,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/server-mono
+            https://codefont.dev/src/pages/fonts/server-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1192,10 +1192,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/sf-mono
+            https://codefont.dev/src/pages/fonts/sf-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1206,10 +1206,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/share-tech-mono
+            https://codefont.dev/src/pages/fonts/share-tech-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1220,10 +1220,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/sometype-mono
+            https://codefont.dev/src/pages/fonts/sometype-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1234,10 +1234,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/source-code-pro
+            https://codefont.dev/src/pages/fonts/source-code-pro
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1248,10 +1248,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/space-mono
+            https://codefont.dev/src/pages/fonts/space-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1262,10 +1262,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/spline-sans-mono
+            https://codefont.dev/src/pages/fonts/spline-sans-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1276,10 +1276,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/spot-mono
+            https://codefont.dev/src/pages/fonts/spot-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1290,10 +1290,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/sudo
+            https://codefont.dev/src/pages/fonts/sudo
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1304,10 +1304,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/suse-mono
+            https://codefont.dev/src/pages/fonts/suse-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1318,10 +1318,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/terminus
+            https://codefont.dev/src/pages/fonts/terminus
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1332,10 +1332,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/ubuntu-mono
+            https://codefont.dev/src/pages/fonts/ubuntu-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1346,10 +1346,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/ubuntu-sans-mono
+            https://codefont.dev/src/pages/fonts/ubuntu-sans-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1360,10 +1360,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/victor-mono
+            https://codefont.dev/src/pages/fonts/victor-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
@@ -1374,10 +1374,10 @@
     </url>
     <url>
         <loc>
-            https://codefont.dev/fonts/zenbones-mono
+            https://codefont.dev/src/pages/fonts/zenbones-mono
         </loc>
         <lastmod>
-            2026-10-30T22:57:40.195Z
+            2026-10-31T05:11:29.665Z
         </lastmod>
         <changefreq>
             daily
