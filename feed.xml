@@ -7,8 +7,14 @@
     <description>Find and apply monospace coding fonts in VS Code. CodeFont verifies installed fonts, saves favorites, and manages editor and terminal font settings locally.</description>
     <language>en</language>
     <atom:link href="https://codefont.dev/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 05:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:05:38 GMT</lastBuildDate>
 
+    <item>
+      <title>About CodeFont — Local-Only VS Code Font Manager</title>
+      <link>https://codefont.dev/about</link>
+      <description>CodeFont is a free, MIT-licensed VS Code extension that finds installed monospace fonts, verifies they work for code, and applies your choice locally.</description>
+      <guid isPermaLink="true">https://codefont.dev/about</guid>
+    </item>
     <item>
       <title>编程字体推荐：95 款精选等宽代码字体（免费与付费）</title>
       <link>https://codefont.dev/best-coding-fonts-cn</link>
@@ -20,6 +26,12 @@
       <link>https://codefont.dev/best-coding-fonts</link>
       <description>Browse 95 coding fonts for VS Code: 80 free and system families, 15 paid, 25 with programming ligatures, plus filterable cards and setup links.</description>
       <guid isPermaLink="true">https://codefont.dev/best-coding-fonts</guid>
+    </item>
+    <item>
+      <title>Contact CodeFont — Support, Security &amp; Font Listings</title>
+      <link>https://codefont.dev/contact</link>
+      <description>Reach the CodeFont maintainer for bug reports, security disclosures, font listing corrections, privacy requests, or general questions.</description>
+      <guid isPermaLink="true">https://codefont.dev/contact</guid>
     </item>
     <item>
       <title>Coding Font Gallery — 95 Monospace Fonts in Their Own Type</title>
@@ -602,6 +614,18 @@
       <link>https://codefont.dev</link>
       <description>Find and apply monospace coding fonts in VS Code. CodeFont verifies installed fonts, saves favorites, and manages editor and terminal font settings locally.</description>
       <guid isPermaLink="true">https://codefont.dev</guid>
+    </item>
+    <item>
+      <title>Privacy Policy — CodeFont</title>
+      <link>https://codefont.dev/privacy</link>
+      <description>What the CodeFont extension and codefont.dev collect, how analytics and advertising cookies are used, and how to exercise your privacy rights.</description>
+      <guid isPermaLink="true">https://codefont.dev/privacy</guid>
+    </item>
+    <item>
+      <title>Terms of Service — CodeFont</title>
+      <link>https://codefont.dev/terms</link>
+      <description>The terms that govern the codefont.dev website, the CodeFont extension, and the MIT-licensed source code, including acceptable use and liability.</description>
+      <guid isPermaLink="true">https://codefont.dev/terms</guid>
     </item>
   </channel>
 </rss>
