@@ -1,0 +1,1 @@
+import{D as e}from"./client.DIEI55MT.js";e(),typeof window<`u`&&((globalThis.__svelte??={}).v??=new Set).add(`5`);

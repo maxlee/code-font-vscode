@@ -1,0 +1,1 @@
+var e=[`all`,`free`,`paid`,`ligatures`,`recommended`];function t(e,t,n=``){let r=n.trim().toLowerCase();return e.filter(e=>e.name.toLowerCase().includes(r)&&(t===`all`||(t===`free`||t===`paid`?e.type===t:e[t])))}function n(e,t){return e[t===`free`?`freeSystem`:t]}export{n,e as r,t};
