@@ -1250,6 +1250,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/de/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/de/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -1296,6 +1308,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/de/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev/de/privacy</loc>
@@ -3686,6 +3710,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/fr/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/fr/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -3734,6 +3770,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
   </url>
   <url>
+    <loc>https://codefont.dev/fr/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/fr/privacy</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/privacy"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/privacy"/>
@@ -3768,6 +3816,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/cascadia-code-vs-cascadia-mono"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/cascadia-code-vs-cascadia-mono"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
   </url>
   <url>
     <loc>https://codefont.dev/guides/distinguish-zero-o-one-l</loc>
@@ -3816,6 +3876,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev</loc>
@@ -5042,6 +5114,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/ja/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/ja/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -5088,6 +5172,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/ja/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev/ja/privacy</loc>
@@ -6326,6 +6422,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/ko/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/ko/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -6372,6 +6480,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/ko/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev/ko/privacy</loc>
@@ -7622,6 +7742,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/pt/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/pt/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -7668,6 +7800,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/pt/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev/pt/privacy</loc>
@@ -8918,6 +9062,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/zh-cn/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/zh-cn/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -8964,6 +9120,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/zh-cn/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev/zh-cn/privacy</loc>
@@ -10202,6 +10370,18 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono"/>
   </url>
   <url>
+    <loc>https://codefont.dev/zh-tw/guides/code-font-in-word</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/code-font-in-word"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/code-font-in-word"/>
+  </url>
+  <url>
     <loc>https://codefont.dev/zh-tw/guides/distinguish-zero-o-one-l</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/distinguish-zero-o-one-l"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/distinguish-zero-o-one-l"/>
@@ -10248,6 +10428,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/vs-code-terminal-font"/>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/vs-code-terminal-font"/>
+  </url>
+  <url>
+    <loc>https://codefont.dev/zh-tw/guides/what-font-is-code-written-in</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://codefont.dev/de/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://codefont.dev/fr/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://codefont.dev/ja/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://codefont.dev/ko/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://codefont.dev/pt/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://codefont.dev/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://codefont.dev/zh-cn/guides/what-font-is-code-written-in"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://codefont.dev/zh-tw/guides/what-font-is-code-written-in"/>
   </url>
   <url>
     <loc>https://codefont.dev/zh-tw/privacy</loc>

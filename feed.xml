@@ -7,7 +7,7 @@
     <description>Find and apply monospace coding fonts in VS Code. CodeFont verifies installed fonts, saves favorites, and manages editor and terminal font settings locally.</description>
     <language>en</language>
     <atom:link href="https://codefont.dev/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 01:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:52:49 GMT</lastBuildDate>
 
     <item>
       <title>VS Code Font Manager — Find &amp; Apply Coding Fonts</title>
@@ -390,7 +390,7 @@
     <item>
       <title>Maple Mono – Schriftprobe und Download</title>
       <link>https://codefont.dev/de/fonts/maple-mono</link>
-      <description>Maple Mono — Unterstützt CJK-Zeichen mit einem exakten Breitenverhältnis von 2:1 zu lateinischen Zeichen.</description>
+      <description>Maple Mono — Abgerundete Festbreitenschrift mit Programmierligaturen. NF ergänzt Terminal-Symbole, CN ergänzt chinesische Schriftzeichen.</description>
       <guid isPermaLink="true">https://codefont.dev/de/fonts/maple-mono</guid>
     </item>
     <item>
@@ -640,6 +640,12 @@
       <guid isPermaLink="true">https://codefont.dev/de/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>Eine Schrift für Code in Microsoft Word | CodeFont</title>
+      <link>https://codefont.dev/de/guides/code-font-in-word</link>
+      <description>Für Codeblöcke in Word eignen sich Consolas oder Courier New, sofern sie installiert sind. Speichern Sie Schrift, Absatzabstand und Einzug als Absatzformatvorlage für weitere Beispiele.</description>
+      <guid isPermaLink="true">https://codefont.dev/de/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>Lesbarkeit von Codeschriften testen mit 0/O und 1/l/I | CodeFont</title>
       <link>https://codefont.dev/de/guides/distinguish-zero-o-one-l</link>
       <description>Kannst du Null, großes O, Eins, kleines l und großes I unterscheiden? Teste die Zeichen in einem Bezeichner bei der Schriftgröße, in der du täglich liest.</description>
@@ -662,6 +668,12 @@
       <link>https://codefont.dev/de/guides/vs-code-terminal-font</link>
       <description>Lege für das integrierte Terminal in VS Code eine eigene Schrift fest. So prüfst du den Familiennamen und findest die Ursache für Kästchen im Prompt.</description>
       <guid isPermaLink="true">https://codefont.dev/de/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>In welcher Schrift wird Code angezeigt? | CodeFont</title>
+      <link>https://codefont.dev/de/guides/what-font-is-code-written-in</link>
+      <description>Editoren zeigen Quellcode meist in einer Schrift mit fester Zeichenbreite an. Dieselbe Python-Datei kann auf einem Bildschirm in Consolas und auf einem anderen in Fira Code erscheinen.</description>
+      <guid isPermaLink="true">https://codefont.dev/de/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>Datenschutzerklärung – CodeFont</title>
@@ -1008,7 +1020,7 @@
     <item>
       <title>Maple Mono Font — Specimen, Ligatures &amp; Download</title>
       <link>https://codefont.dev/fonts/maple-mono</link>
-      <description>Maple Mono: Excellent CJK support for a smooth coding experience, with perfect 2:1 CJK/Latin character alignment. Free monospace coding font with ligatures.</description>
+      <description>Maple Mono: Rounded monospace with programming ligatures. The NF build adds terminal icons and the CN build adds Chinese glyphs.</description>
       <guid isPermaLink="true">https://codefont.dev/fonts/maple-mono</guid>
     </item>
     <item>
@@ -1608,7 +1620,7 @@
     <item>
       <title>Maple Mono – spécimen et téléchargement</title>
       <link>https://codefont.dev/fr/fonts/maple-mono</link>
-      <description>Maple Mono — Prend en charge les caractères CJK avec un rapport de largeur de 2 pour 1 par rapport aux caractères latins.</description>
+      <description>Maple Mono — Police à chasse fixe avec ligatures. NF ajoute des icônes de terminal et CN des caractères chinois.</description>
       <guid isPermaLink="true">https://codefont.dev/fr/fonts/maple-mono</guid>
     </item>
     <item>
@@ -1858,6 +1870,12 @@
       <guid isPermaLink="true">https://codefont.dev/fr/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>Quelle police utiliser pour du code dans Microsoft Word ? | CodeFont</title>
+      <link>https://codefont.dev/fr/guides/code-font-in-word</link>
+      <description>Dans Word, choisissez Consolas ou Courier New si la police est installée. Enregistrez la police, l’espacement et le retrait dans un style de paragraphe pour réutiliser la mise en forme.</description>
+      <guid isPermaLink="true">https://codefont.dev/fr/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>Tester la lisibilité de 0/O et de 1/l/I dans une police | CodeFont</title>
       <link>https://codefont.dev/fr/guides/distinguish-zero-o-one-l</link>
       <description>Vérifiez si le zéro, le O majuscule, le un, le l minuscule et le I majuscule restent distincts dans un identifiant à votre taille de lecture habituelle.</description>
@@ -1882,6 +1900,12 @@
       <guid isPermaLink="true">https://codefont.dev/fr/guides/vs-code-terminal-font</guid>
     </item>
     <item>
+      <title>Dans quelle police le code est-il affiché ? | CodeFont</title>
+      <link>https://codefont.dev/fr/guides/what-font-is-code-written-in</link>
+      <description>Un éditeur affiche généralement le code source dans une police à chasse fixe. Le même fichier Python peut apparaître en Consolas sur un écran et en Fira Code sur un autre, selon les réglages de l’éditeur.</description>
+      <guid isPermaLink="true">https://codefont.dev/fr/guides/what-font-is-code-written-in</guid>
+    </item>
+    <item>
       <title>Politique de confidentialité — CodeFont</title>
       <link>https://codefont.dev/fr/privacy</link>
       <description>Découvrez les données collectées par l’extension CodeFont et codefont.dev, l’utilisation des cookies de mesure d’audience et de publicité, et les modalités d’exercice de vos droits.</description>
@@ -1898,6 +1922,12 @@
       <link>https://codefont.dev/guides/cascadia-code-vs-cascadia-mono</link>
       <description>Cascadia Code and Cascadia Mono are two Microsoft font families. Choose between them by testing how you want arrows and comparisons to look in code and logs.</description>
       <guid isPermaLink="true">https://codefont.dev/guides/cascadia-code-vs-cascadia-mono</guid>
+    </item>
+    <item>
+      <title>A code font for Microsoft Word | CodeFont</title>
+      <link>https://codefont.dev/guides/code-font-in-word</link>
+      <description>Use Consolas or Courier New, if installed, for a code block in Word. Save the formatting as a paragraph style so later examples use the same font, spacing and indentation.</description>
+      <guid isPermaLink="true">https://codefont.dev/guides/code-font-in-word</guid>
     </item>
     <item>
       <title>Coding font readability test for 0/O and 1/l/I | CodeFont</title>
@@ -1922,6 +1952,12 @@
       <link>https://codefont.dev/guides/vs-code-terminal-font</link>
       <description>Set a font for the VS Code integrated terminal while keeping your editor font. Check the family name, test the result and identify missing prompt symbols.</description>
       <guid isPermaLink="true">https://codefont.dev/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>What font is code written in? | CodeFont</title>
+      <link>https://codefont.dev/guides/what-font-is-code-written-in</link>
+      <description>Most editors display source code in a monospace font. The editor chooses the typeface, so the same Python file can appear in Consolas on one screen and Fira Code on another.</description>
+      <guid isPermaLink="true">https://codefont.dev/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>VS Code フォントマネージャー — コーディング用フォントを検索・適用</title>
@@ -2280,7 +2316,7 @@
     <item>
       <title>Maple Mono のフォント見本とダウンロード</title>
       <link>https://codefont.dev/ja/fonts/maple-mono</link>
-      <description>Maple Mono — 日中韓の文字をサポートし、欧文との幅が正確に2対1で揃う等幅フォント。 文字見本を試し、VS Code のフォント設定をコピーできます。</description>
+      <description>Maple Mono — 角の丸い等幅書体で、プログラミング用の合字を備えます。NF 版は端末アイコン、CN 版は中国語の字形を追加します。 文字見本を試し、VS Code のフォント設定をコピーできます。</description>
       <guid isPermaLink="true">https://codefont.dev/ja/fonts/maple-mono</guid>
     </item>
     <item>
@@ -2530,6 +2566,12 @@
       <guid isPermaLink="true">https://codefont.dev/ja/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>Microsoft Word でコードに使うフォント | CodeFont</title>
+      <link>https://codefont.dev/ja/guides/code-font-in-word</link>
+      <description>Word でコードを載せるには、インストール済みの Consolas や Courier New が使えます。フォント、段落間隔、インデントを段落スタイルに保存すれば、次の例にも同じ書式を適用できます。</description>
+      <guid isPermaLink="true">https://codefont.dev/ja/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>0/O と 1/l/I で試すコーディングフォントの判読性 | CodeFont</title>
       <link>https://codefont.dev/ja/guides/distinguish-zero-o-one-l</link>
       <description>ゼロと大文字の O、数字の 1 と小文字の l、大文字の I を区別できますか。普段の文字サイズで識別子を書き写し、似た字形の読みやすさを試します。</description>
@@ -2552,6 +2594,12 @@
       <link>https://codefont.dev/ja/guides/vs-code-terminal-font</link>
       <description>エディターの表示を保ったまま、VS Code の統合ターミナルに別のフォントを設定します。ファミリー名の指定方法と、プロンプトのアイコンが四角になる原因を確認します。</description>
       <guid isPermaLink="true">https://codefont.dev/ja/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>ソースコードはどのフォントで表示される？ | CodeFont</title>
+      <link>https://codefont.dev/ja/guides/what-font-is-code-written-in</link>
+      <description>エディターは通常、等幅フォントでコードを表示します。同じ Python ファイルでも、エディターの設定によって、ある画面では Consolas、別の画面では Fira Code で読めます。</description>
+      <guid isPermaLink="true">https://codefont.dev/ja/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>プライバシーポリシー — CodeFont</title>
@@ -2922,7 +2970,7 @@
     <item>
       <title>Maple Mono 코딩 글꼴 견본 및 다운로드</title>
       <link>https://codefont.dev/ko/fonts/maple-mono</link>
-      <description>Maple Mono — 한중일 문자를 지원하며 라틴 문자와의 너비 비율이 정확히 2:1이다. 견본을 살펴보고 VS Code 글꼴 설정을 복사하세요.</description>
+      <description>Maple Mono — 둥근 모서리와 코딩용 합자가 특징인 고정폭 글꼴입니다. NF 버전에는 터미널 아이콘이, CN 버전에는 중국어 글리프가 추가됩니다. 견본을 살펴보고 VS Code 글꼴 설정을 복사하세요.</description>
       <guid isPermaLink="true">https://codefont.dev/ko/fonts/maple-mono</guid>
     </item>
     <item>
@@ -3172,6 +3220,12 @@
       <guid isPermaLink="true">https://codefont.dev/ko/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>Microsoft Word에서 코드 글꼴 설정하기 | CodeFont</title>
+      <link>https://codefont.dev/ko/guides/code-font-in-word</link>
+      <description>Word에서 코드 단락에 쓸 글꼴로는 설치된 Consolas나 Courier New가 적합합니다. 글꼴, 단락 간격, 들여쓰기를 단락 스타일로 저장하면 다음 예제에도 같은 서식을 적용할 수 있습니다.</description>
+      <guid isPermaLink="true">https://codefont.dev/ko/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>0/O와 1/l/I로 코딩 글꼴 가독성 테스트하기 | CodeFont</title>
       <link>https://codefont.dev/ko/guides/distinguish-zero-o-one-l</link>
       <description>숫자 0과 대문자 O, 숫자 1과 소문자 l, 대문자 I를 평소 크기에서 구분할 수 있는지 확인하세요. 실제 식별자를 옮겨 적으면 차이를 파악하기 쉽습니다.</description>
@@ -3194,6 +3248,12 @@
       <link>https://codefont.dev/ko/guides/vs-code-terminal-font</link>
       <description>편집기의 글꼴을 유지하면서 VS Code 통합 터미널의 글꼴을 바꿀 수 있습니다. 글꼴 이름을 지정하고 프롬프트 아이콘이 네모로 보일 때 확인할 항목을 살펴보세요.</description>
       <guid isPermaLink="true">https://codefont.dev/ko/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>코드는 어떤 글꼴로 표시될까? | CodeFont</title>
+      <link>https://codefont.dev/ko/guides/what-font-is-code-written-in</link>
+      <description>편집기는 대개 소스 코드를 고정폭 글꼴로 표시합니다. 같은 Python 파일도 편집기 설정에 따라 한 화면에서는 Consolas로, 다른 화면에서는 Fira Code로 보일 수 있습니다.</description>
+      <guid isPermaLink="true">https://codefont.dev/ko/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>개인정보 처리방침 — CodeFont</title>
@@ -3570,7 +3630,7 @@
     <item>
       <title>Maple Mono — amostra e download</title>
       <link>https://codefont.dev/pt/fonts/maple-mono</link>
-      <description>Maple Mono — Oferece suporte a caracteres CJK, alinhados aos latinos na proporção exata de 2:1. Teste a fonte e copie as configurações para o VS Code.</description>
+      <description>Maple Mono — Fonte monoespaçada com ligaduras. A versão NF inclui ícones de terminal e a CN inclui caracteres chineses.</description>
       <guid isPermaLink="true">https://codefont.dev/pt/fonts/maple-mono</guid>
     </item>
     <item>
@@ -3820,6 +3880,12 @@
       <guid isPermaLink="true">https://codefont.dev/pt/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>Uma fonte para trechos de código no Microsoft Word | CodeFont</title>
+      <link>https://codefont.dev/pt/guides/code-font-in-word</link>
+      <description>Use Consolas ou Courier New, se disponível, para formatar código no Word. Salve a fonte, o espaçamento e o recuo em um estilo de parágrafo para usar a mesma formatação nos próximos exemplos.</description>
+      <guid isPermaLink="true">https://codefont.dev/pt/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>Teste de legibilidade de fontes com 0/O e 1/l/I | CodeFont</title>
       <link>https://codefont.dev/pt/guides/distinguish-zero-o-one-l</link>
       <description>Teste se é fácil distinguir zero, O maiúsculo, um, l minúsculo e I maiúsculo em um identificador real, usando o tamanho de fonte do seu dia a dia.</description>
@@ -3842,6 +3908,12 @@
       <link>https://codefont.dev/pt/guides/vs-code-terminal-font</link>
       <description>Escolha uma fonte para o terminal integrado do VS Code e mantenha a do editor. Confira o nome da família e descubra por que um ícone pode aparecer como quadrado.</description>
       <guid isPermaLink="true">https://codefont.dev/pt/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>Com que fonte o código é exibido? | CodeFont</title>
+      <link>https://codefont.dev/pt/guides/what-font-is-code-written-in</link>
+      <description>Os editores costumam exibir o código-fonte com uma fonte monoespaçada. Conforme a configuração do editor, o mesmo arquivo Python pode aparecer em Consolas em uma tela e em Fira Code em outra.</description>
+      <guid isPermaLink="true">https://codefont.dev/pt/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>Política de Privacidade — CodeFont</title>
@@ -4218,7 +4290,7 @@
     <item>
       <title>Maple Mono 编程字体预览与下载</title>
       <link>https://codefont.dev/zh-cn/fonts/maple-mono</link>
-      <description>Maple Mono — 中文支持优秀，流畅编程体验，完美 2:1 中英文对齐 在线预览字形并复制 VS Code 字体设置。</description>
+      <description>Maple Mono — 这款圆角等宽字体带有编程连字。NF 版加入终端图标，CN 版加入中文字形。 在线预览字形并复制 VS Code 字体设置。</description>
       <guid isPermaLink="true">https://codefont.dev/zh-cn/fonts/maple-mono</guid>
     </item>
     <item>
@@ -4468,6 +4540,12 @@
       <guid isPermaLink="true">https://codefont.dev/zh-cn/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>在 Microsoft Word 里给代码设置字体 | CodeFont</title>
+      <link>https://codefont.dev/zh-cn/guides/code-font-in-word</link>
+      <description>在 Word 中排版代码块，可以选用已安装的 Consolas 或 Courier New。把字体、段距和缩进保存为段落样式，文档里的每个代码示例就能使用同一套格式。</description>
+      <guid isPermaLink="true">https://codefont.dev/zh-cn/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>如何测试编程字体能否分清 0/O 和 1/l/I | CodeFont</title>
       <link>https://codefont.dev/zh-cn/guides/distinguish-zero-o-one-l</link>
       <description>用自己平时的字号测试编程字体，看能否区分数字零、大写 O、数字一、小写 l 和大写 I。把它们放回变量名里，比单看放大的字母更容易发现问题。</description>
@@ -4490,6 +4568,12 @@
       <link>https://codefont.dev/zh-cn/guides/vs-code-terminal-font</link>
       <description>单独设置 VS Code 集成终端的字体，可以保留编辑器原来的外观。以下用 Cascadia Mono 演示字体名称的写法，以及提示符图标缺失时的检查方法。</description>
       <guid isPermaLink="true">https://codefont.dev/zh-cn/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>代码通常用什么字体？ | CodeFont</title>
+      <link>https://codefont.dev/zh-cn/guides/what-font-is-code-written-in</link>
+      <description>编辑器通常用等宽字体显示源代码。同一个 Python 文件，在一台电脑上可以显示为 Consolas，在另一台上可以显示为 Fira Code。你可以在编辑器里查看和更改字体。</description>
+      <guid isPermaLink="true">https://codefont.dev/zh-cn/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>隐私政策 — CodeFont</title>
@@ -4860,7 +4944,7 @@
     <item>
       <title>Maple Mono 程式碼字型預覽與下載</title>
       <link>https://codefont.dev/zh-tw/fonts/maple-mono</link>
-      <description>Maple Mono — 支援中文，中英文以 2:1 的字寬比例整齊對齊 線上預覽字形並複製 VS Code 字型設定。</description>
+      <description>Maple Mono — 這款圓角等寬字型支援程式設計連字。NF 版加入終端機圖示，CN 版加入中文字形。 線上預覽字形並複製 VS Code 字型設定。</description>
       <guid isPermaLink="true">https://codefont.dev/zh-tw/fonts/maple-mono</guid>
     </item>
     <item>
@@ -5110,6 +5194,12 @@
       <guid isPermaLink="true">https://codefont.dev/zh-tw/guides/cascadia-code-vs-cascadia-mono</guid>
     </item>
     <item>
+      <title>在 Microsoft Word 中設定程式碼字型 | CodeFont</title>
+      <link>https://codefont.dev/zh-tw/guides/code-font-in-word</link>
+      <description>在 Word 排版程式碼區塊時，可選用已安裝的 Consolas 或 Courier New。將字型、段落間距與縮排存為段落樣式，整份文件的範例就能套用相同格式。</description>
+      <guid isPermaLink="true">https://codefont.dev/zh-tw/guides/code-font-in-word</guid>
+    </item>
+    <item>
       <title>測試程式字型能否分辨 0/O 和 1/l/I | CodeFont</title>
       <link>https://codefont.dev/zh-tw/guides/distinguish-zero-o-one-l</link>
       <description>用日常字級測試程式字型，看能否區分零、大寫 O、數字一、小寫 l 和大寫 I。把這些字元放回識別字，更容易看出閱讀時的差異。</description>
@@ -5132,6 +5222,12 @@
       <link>https://codefont.dev/zh-tw/guides/vs-code-terminal-font</link>
       <description>設定 VS Code 整合式終端機的字型，可以保留編輯器原本的外觀。以下示範如何填寫家族名稱，以及提示字元中的圖示變成方框時該如何檢查。</description>
       <guid isPermaLink="true">https://codefont.dev/zh-tw/guides/vs-code-terminal-font</guid>
+    </item>
+    <item>
+      <title>程式碼通常使用什麼字型？ | CodeFont</title>
+      <link>https://codefont.dev/zh-tw/guides/what-font-is-code-written-in</link>
+      <description>編輯器通常以等寬字型顯示原始碼。同一個 Python 檔案，在一台電腦上可以顯示為 Consolas，在另一台上則是 Fira Code。你可以在編輯器內查看與更換字型。</description>
+      <guid isPermaLink="true">https://codefont.dev/zh-tw/guides/what-font-is-code-written-in</guid>
     </item>
     <item>
       <title>隱私權政策 — CodeFont</title>
